@@ -594,6 +594,12 @@ body {
   max-width: 46ch;
   margin-bottom: 25px;
 }
+.explore{
+  color: #fff;
+}
+.icon{
+  color: #fff;
+}
 
 /*-----------------------------------*\
  * #COLLECTION

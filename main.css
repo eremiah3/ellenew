@@ -8,7 +8,12 @@
   text-transform: capitalize;
   transition: all .2s linear;
 }
-
+.explore{
+  color: #fff;
+}
+#col{
+  color: #fff;
+}
 .container{
   display: flex;
   justify-content: center;

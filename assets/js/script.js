@@ -11,6 +11,7 @@ const navCloseBtn = document.querySelector("[data-nav-close-btn]");
 const inputPrice = document.getElementById("input-amount");
 const txRef = document.getElementById("tx_ref");
 
+
 const navElems = [overlay, navOpenBtn, navCloseBtn];
 
 for (let i = 0; i < navElems.length; i++) {
